@@ -26,3 +26,4 @@
 /Users/camil/Desktop/Personal Projects/ASP Backend/MyNewApp/obj/Debug/net9.0/MyNewApp.pdb
 /Users/camil/Desktop/Personal Projects/ASP Backend/MyNewApp/obj/Debug/net9.0/MyNewApp.genruntimeconfig.cache
 /Users/camil/Desktop/Personal Projects/ASP Backend/MyNewApp/obj/Debug/net9.0/ref/MyNewApp.dll
+/Users/camil/Desktop/Personal Projects/ASP Backend/MyNewApp/obj/Debug/net9.0/MyNewApp.sourcelink.json
