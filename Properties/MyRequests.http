@@ -6,10 +6,14 @@ POST http://localhost:5184/todos
 content-Type: application/json
 
 {
-    "id":1,
-    "name":"Testing",
+    "id":2,
+    "name":"Testing again",
     "dueDate":"2025-03-24T00:00:00Z",
     "isCompleted": false
 }
 
 ###
+GET http://localhost:5184/todos/2
+
+### 
+DELETE http://localhost:5184/todos/1
